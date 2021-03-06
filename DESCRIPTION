@@ -1,0 +1,15 @@
+Package: duck
+Type: Package
+Title: Replace R Errors with Something a Little More Humorous
+Version: 0.0.1
+Authors@R: person("Nathan", "Eastwood", "", "nathan.eastwood@icloud.com",
+    role = c("aut", "cre"))
+Maintainer: Nathan Eastwood <nathan.eastwood@icloud.com>
+Description: An R package to replace all R errors with a humorous phrase.
+URL: https://github.com/nathaneastwood/duck
+BugReports: https://github.com/nathaneastwood/duck/issues
+Depends: R (>= 4.0.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
